@@ -214,9 +214,11 @@ h4 {
 
 /* section-banner */
 .banner {
+  padding: initial;
   background: url(../images/banner_bg.jpg) no-repeat center;
   background-size: cover;
   color: #ffffff;
+  height: 600px;
 }
 
 .banner_text {
